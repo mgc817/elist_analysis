@@ -1,6 +1,7 @@
 <p align="center">
-<img width="300" height="300" alt="NexTech_logo" src="https://github.com/user-attachments/assets/2323caca-eac5-43e5-a3cb-c1f22c0b08b8" />
+<img width="1536" height="300" alt="image" src="https://github.com/user-attachments/assets/d9772ef6-f0b8-4f71-b61b-0ca5f8c69b45" />
 </p>
+
 # Company Background
 NexTech is a US-based e-commerce company specializing in consumer electronics and accessories sold through its website and mobile app. Founded in 2018, the company has grown to serve a global customer base of 87,628 customers across 194 countries.
 
